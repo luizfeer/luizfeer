@@ -2,6 +2,7 @@
 
 ### Hi 👋, I'm Luiz Almeida
 - 📄 Know about my experiences **[CV Luiz Almeida](https://drive.google.com/file/d/1E-iXqdJ5CBuFZYe6UnWJc2B8Ghueu__x/view?usp=sharing)**
+- https://luizalmeida.dev
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
